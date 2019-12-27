@@ -1,0 +1,54 @@
+body {
+    text-align : center;
+    background-color : #011F3F;
+}
+
+h1 {
+    font-family : 'Press Start 2P' , cursive;
+    font-size : 3rem;
+    color : #FEF2BF;
+}
+
+.container {
+    height : 480px;
+    width : 480px;
+    margin : 100px auto 0 auto ;
+}
+
+.row {
+    height : 240px;
+    width : 480px;
+}
+
+.box {
+    outline : none;
+    height : 200px;
+    width : 200px;
+    margin : 19px;
+    border : 10px solid black;
+    border-radius : 15px;
+    
+}
+
+.green {
+    background-color : green;
+}
+.red {
+    background-color : red;
+}
+.yellow {
+    background-color : yellow;
+}
+.blue { 
+    background-color : blue;
+}
+
+
+.blink {
+    opacity : 0.5;
+    text-shadow : 0 3px 3px 5px white;
+}
+
+.red-background {
+    background-color: red;
+}
